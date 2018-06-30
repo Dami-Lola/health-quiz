@@ -5,5 +5,3 @@
   3. Its a simple ,intuitive and educative medical quiz app.
 
   Download link: https://drive.google.com/open?id=1QTZ4Wa1m5oj0yKIpiYSdOS2k3y7Yys4C
-
-https://drive.google.com/open?id=1QTZ4Wa1m5oj0yKIpiYSdOS2k3y7Yys4C
