@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Health Quiz</string>
+    <string name="header">How well informed are you about Diabetes?....</string>
+    <string name="Question1">1) What are the early signs of Diabetes</string>
+    <string name="qnt1Answer1">Increased thirst</string>
+    <string name="qnt1Answer2">Increased hunger (especially after eating)</string>
+    <string name="qnt1Answe3">Frequent urination or urine infections</string>
+    <string name="qnt1Answer4">Frequent bleeding from the nose</string>
+    <string name="ant1Answer5">Black Urine</string>
+    <string name="question2">2) Gestational Diabetes is the type of diabetes that:</string>
+    <string name="qnt2Answe1">Affects females during pregnancy</string>
+    <string name="qnt2Answer2">Affects male reproductive organ</string>
+    <string name="question3">3) How many types of diabetes do we have?</string>
+    <string name="input_a_number">Input a Number</string>
+    <string name="question4">4) Which of these are types of diabetes?</string>
+    <string name="qnt4Answer1">Insulin-dependent diabetes</string>
+    <string name="qnt4Anwser2">Type 2 diabetes</string>
+    <string name="qnt4Answer3">Gestational Diabetes</string>
+    <string name="qnt4Answer4">None of the Above</string>
+    <string name="question5">5) Diabetes when one of the following occurs:</string>
+    <string name="qnt5Answer1">When the pancreas does not produce any insulin</string>
+    <string name="qnt5Answer2">Frequent weight loss</string>
+    <string name="question6">6) How Is Diabetes Managed?</string>
+    <string name="qnt6Answer1">Planning what you eat and following a balanced meal plan</string>
+    <string name="qut6Answer2">Intake of more sugar</string>
+    <string name="qnt6Answer3">Monitoring your blood glucose and blood pressure levels</string>
+    <string name="qnt6Answer4">Gain more weight</string>
+    <string name="qnt6Answer5">Exercising regularly</string>
+    <string name="question7">7) Do diabetics have mood swings?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question8">8) From the image below, identify and type the name of the highlighted organ</string>
+    <string name="organ_name">Organ Name</string>
+    <string name="grade">Calculate Grade</string>
+</resources>
